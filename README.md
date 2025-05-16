@@ -1,14 +1,16 @@
 # 🌤️ App del Clima
 
+🌐 **Demo en vivo:** [https://jeanpooljp.github.io/clima-app/](https://jeanpooljp.github.io/clima-app/)
+
 Una aplicación del clima creada con **React** que permite consultar el clima actual de cualquier ciudad usando la API de **OpenWeatherMap**. Incluye historial de búsquedas recientes, íconos representativos del clima, y un diseño moderno con **Bootstrap**.
 
 ## 🚀 Funcionalidades
 
-- ✅ Búsqueda de clima por ciudad
-- ✅ Muestra temperatura, descripción, sensación térmica, humedad, presión, velocidad del viento, amanecer y atardecer
-- ✅ Historial de las 5 búsquedas más recientes
-- ✅ Diseño responsivo con **Bootstrap 5** y **Bootstrap Icons**
-- ✅ Carga dinámica de estilos y scripts sin necesidad de instalarlos localmente
+- ✅ Búsqueda de clima por ciudad  
+- ✅ Muestra temperatura, descripción, sensación térmica, humedad, presión, velocidad del viento, amanecer y atardecer  
+- ✅ Historial de las 5 búsquedas más recientes  
+- ✅ Diseño responsivo con **Bootstrap 5** y **Bootstrap Icons**  
+- ✅ Carga dinámica de estilos y scripts sin necesidad de instalarlos localmente  
 
 ## 🧰 Tecnologías usadas
 
