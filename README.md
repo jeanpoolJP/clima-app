@@ -22,5 +22,4 @@ Una aplicación del clima creada con **React** que permite consultar el clima ac
 1. **Clona este repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/jeanpoolJP/clima-app.git
